@@ -1,0 +1,200 @@
+*{	
+	margin: 0px;
+	padding: 0px;
+}
+
+#logo{
+	font-family: SimSun-ExtB;
+	width: 20%;
+	float: left;
+	line-height: 60px;
+	color: white;
+	text-align: center;
+	font-size: 70px;
+	text-transform: uppercase;
+	/*background-color: white;*/
+	text-shadow: 5px -2px 25px ;
+}
+.text1{
+	position: absolute;
+	color: #fef0db;
+	text-align: center;
+	top: 110px;
+	left: 600px;
+	font-size: 60px;
+	transition-duration: 2s;
+}
+.text1:hover{
+	color: peru;
+	text-shadow: 3px 3px 6px red;
+}
+#imge{
+	width: 100%;
+	height: 100vh;
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('328994.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size:cover;
+
+}
+
+.maserati{
+	position: absolute;
+	width: 200px;
+	height: 180px;
+	top: 250px;
+	left: 170px;
+	border-radius: 10px;
+	display: inline-block;
+	transition-duration: 0.5s;
+
+}
+	
+
+.maserati:hover{
+	transform: translateY(-15px);
+}
+
+.porsche{
+	position: absolute;
+	width: 200px;
+	height: 180px;
+	top: 250px;
+	left: 410px;
+	border-radius: 10px;
+	display: inline-block;
+	transition-duration: 0.5s;
+
+}
+.porsche:hover{
+
+	transform: translateY(-15px);
+	}
+
+.ford{
+	position: absolute;
+	width: 200px;
+	height: 180px;
+	top: 250px;
+	left: 640px;
+	border-radius: 10px;
+	display: inline-block;
+	transition-duration: 0.5s;
+
+
+}
+.ford:hover{
+
+	transform: translateY(-15px);
+	}
+
+.RR{
+	position: absolute;
+	width: 200px;
+	height: 180px;
+	top: 250px;
+	left: 870px;
+	border-radius: 10px;
+	display: inline-block;
+	transition-duration: 0.5s;
+
+}
+.RR:hover{
+
+	transform: translateY(-15px);
+	}
+
+.tesla{
+	position: absolute;
+	width: 200px;
+	height: 180px;
+	top: 250px;
+	left: 1100px;
+	border-radius: 10px;
+	display: inline-block;
+	transition-duration: 0.5s;
+
+
+}
+.tesla:hover{
+		transform: translateY(-15px);
+}
+
+.bmw{
+	position: absolute;
+	width: 200px;
+	height: 180px;
+	top: 480px;
+	left: 170px;
+	border-radius: 10px;
+	display: inline-block;
+	transition-duration: 0.5s;
+
+
+}
+.bmw:hover{
+		transform: translateY(-15px);
+}
+
+.audi{
+	position: absolute;
+	width: 200px;
+	height: 180px;
+	top: 480px;
+	left: 410px;
+	border-radius: 10px;
+	display: inline-block;
+	transition-duration: 0.5s;
+
+
+}
+.audi:hover{
+		transform: translateY(-15px);
+}
+
+.lambo{
+	position: absolute;
+	width: 200px;
+	height: 180px;
+	top: 480px;
+	left: 640px;
+	border-radius: 10px;
+	display: inline-block;
+	transition-duration: 0.5s;
+
+
+}
+.lambo:hover{
+		transform: translateY(-15px);
+}
+
+.jaguar{
+	position: absolute;
+	width: 200px;
+	height: 180px;
+	top: 480px;
+	left: 870px;
+	border-radius: 10px;
+	display: inline-block;
+	transition-duration: 0.5s;
+
+
+}
+.jaguar:hover{
+		transform: translateY(-15px);
+}
+.ferrari{
+	position: absolute;
+	width: 200px;
+	height: 180px;
+	top: 480px;
+	left: 1100px;
+	border-radius: 10px;
+	display: inline-block;
+	transition-duration: 0.5s;
+
+
+}
+.ferrari:hover{
+		transform: translateY(-15px);
+}
